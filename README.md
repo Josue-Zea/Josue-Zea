@@ -5,20 +5,14 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
+Passionate about systems and computer engineering, my experience as a full stack developer has allowed me to master various tools, patterns, and cutting-edge technologies. While I am particularly passionate about DevOps and Backend development, I have also had the opportunity to work on frontend projects, both web and mobile.
+- 🌱 I’m currently learning ...
+  - Nest.js
+  - Laravel
+- 👯 I’m looking forward to collaborate on open source projects.
+- 🤜🤛 Working with a team is the best way to grow together <br>
+- 👀 Outside of tech, I enjoy playing videogames 🎮, hiking mountains 🏔️, excersigin 🏋️ and 📖 reading books.
+- 📫 Reach out to me at: <a href="jdzeaherrera@gmail.com">jdzeaherrera@gmail.com</a>
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
