@@ -13,6 +13,7 @@ Passionate about systems and computer engineering, my experience as a full stack
 - 🤜🤛 Working with a team is the best way to grow together <br>
 - 👀 Outside of tech, I enjoy playing videogames 🎮, hiking mountains 🏔️, excersigin 🏋️ and 📖 reading books.
 - 📫 Reach out to me at: <a href="jdzeaherrera@gmail.com">jdzeaherrera@gmail.com</a>
+- 🌐 Portfolio: <a href="https://josue-zea.github.io/portfolio" target="_blank">josue-zea.github.io/portfolio</a>
 <!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>-->
 <br/>
 
